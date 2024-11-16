@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mheecha" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="mheechas_assembly" assemblyId="99960df5d4cb40358898a28d9ed29b8f">
+<Part name="mheecha" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00614151 0.243677 0.610834" rotation="AD: 1 -0.00336517 -0.0815295 175.288" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
